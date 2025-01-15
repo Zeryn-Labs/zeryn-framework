@@ -1,6 +1,7 @@
 # Zeryn AI Agents Framework
 
 Zeryn is a powerful TypeScript-based framework that provides AI-powered agents for managing and automating content across multiple social media platforms.
+![BAnner 1](https://github.com/user-attachments/assets/0b731db8-06e4-4ef1-80b3-7c307a9a8e98)
 
 ## Features
 
